@@ -1,11 +1,10 @@
 ## Welkom bij het lesmateriaal van aardrijkskunde voor 3GT
 
-You can use the [editor on GitHub](https://github.com/Frederidder/frederidder.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Op deze website zie je het lesmateriaal voor de aardrijkskundelessen tot de zomervakantie. Omdat jullie allemaan niet doorgaan met aardrijkskunde in de 4e klas, hebben de SE toetsen niet veel zin. Daarom heb ik een leukere, nieuwe, praktische lesinvulling bedacht. Door op de datum te klikken van de les onder kopje Index, vind je het lesmateriaal van die dag.
 
 ### Index
 [Les 21 april](https://frederidder.github.io/21_april/)
+
 [Les 22 arpil](https://frederidder.github.io/22_april/)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
