@@ -1,10 +1,12 @@
-## Welcome to GitHub Pages
+## Welkom bij het lesmateriaal van aardrijkskunde voor 3GT
 
 You can use the [editor on GitHub](https://github.com/Frederidder/frederidder.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Index
+[Les 21 april](https://frederidder.github.io/21_april/)
+[Les 22 arpil](https://frederidder.github.io/22_april/)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
